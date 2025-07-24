@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Projek Saat Ini
+## 🚀 Projek Aktif
 
 - 🔨 **Arrivo** – Aplikasi Kehadiran Berbasis Selfie (Laravel + Vue)
 - ⚙️ Internal tools – Tools khusus internal dan automasi
