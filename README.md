@@ -4,14 +4,10 @@
 
 Selamat datang di profil GitHub saya! Saya adalah seorang developer yang aktif membangun aplikasi berbasis Laravel + Vue, tertarik pada automasi DevOps, CI/CD, serta pengelolaan server dengan Ubuntu & RHEL.
 
----
-
 ## 🚀 Proyek Aktif
 
 - **🌟 [Arrivo](https://github.com/rafiahfa/arrivo)** – Aplikasi kehadiran berbasis selfie & geolokasi.
 - **💡 Side Projects** – Beberapa eksperimen pribadi untuk eksplorasi teknologi baru.
-
----
 
 ## 🔧 Teknologi yang Saya Gunakan
 
@@ -20,17 +16,6 @@ Selamat datang di profil GitHub saya! Saya adalah seorang developer yang aktif m
 - ⚙️ **DevOps**: GitHub Actions, Nginx
 - 🖥️ **Server**: Ubuntu, Debian, RHEL, Hyper-V
 - 🛠️ **Tools**: VSCode, Postman, Figma (for prototyping)
-
----
-
-## 📈 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafixxp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafixxp&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 
 ## ☕ Fun Facts
 
