@@ -26,9 +26,9 @@ Selamat datang di profil GitHub saya! Saya adalah seorang developer yang aktif m
 ## 📈 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiahfa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafixxp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiahfa&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafixxp&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
