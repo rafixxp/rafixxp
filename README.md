@@ -54,7 +54,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-181717?style=for-the-badge&logo=Debian&logoColor=white"/>
 </p>
 
 ---
