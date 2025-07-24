@@ -62,27 +62,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafiahfa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafixxp&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafiahfa&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafixxp&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-## 📫 Let’s Connect!
-
-- 📧 **Email**: rafiahfa@example.com  
-- 🌐 **Website**: [rafiahfa.dev](https://rafiahfa.dev) *(coming soon)*  
-- 💼 **LinkedIn**: [linkedin.com/in/rafiahfa](https://linkedin.com/in/rafiahfa)
-
----
 
 ## ❤️ Fun Facts
 
-- 💍 Already married – coding partner IRL ❤️
 - ⚡ Often burnout, but never back down 💪
 - 📚 Learning System Analysis to build scalable solutions
 
 ---
-
-> _"Jangan hanya jadi user dari teknologi. Jadilah penciptanya."_ 🚀
