@@ -1,11 +1,4 @@
-<h1 align="center">Rafi Ahfa</h1>
 <p align="center"><b>Backend Engineer • Systems Thinker • Builder</b></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&center=true&width=460&lines=Designing+Scalable+Systems;Laravel+%2B+Vue+Specialist;Automation+%26+CI%2FCD+Driven;Building+Products+that+Last" />
-</p>
-
----
 
 ## 🧭 About
 
