@@ -1,12 +1,13 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rafi Ahfa Fauzan 👋
 
 <p align="center">
   <b>Backend Engineer • Systems Thinker • Builder</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafixxp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafixxp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
@@ -34,7 +35,3 @@ Engineer yang berfokus pada pembangunan sistem backend yang skalabel dan reliabe
 > Saya memprioritaskan kejelasan kode, skalabilitas, dan pemeliharaan jangka panjang di atas solusi instan.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafixxp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
